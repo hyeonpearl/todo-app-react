@@ -18,7 +18,8 @@
       margin: 0 0 0 0.5rem;
       flex: 1;
     }
-    &:checked {
+
+    &.checked {
       svg {
         color: #22b8cf;
       }
