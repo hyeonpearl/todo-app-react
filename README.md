@@ -4,4 +4,4 @@
 
 - To Do List 저장 및 삭제
 
-Reference : [리액트를 다루는 기술 | VELOPERT]()
+Reference : [리액트를 다루는 기술 | VELOPERT](http://www.yes24.com/Product/Goods/79260300)
